@@ -42,3 +42,5 @@
 - [My Portfolio](https://alanledur1.github.io/portfolio) - Check out my personal portfolio website.
 
 ![Snake animation](https://github.com/alanledur1/alanledur1/blob/output/github-contribution-grid-snake.svg)
+
+
