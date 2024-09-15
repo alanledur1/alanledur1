@@ -40,11 +40,11 @@
   </a>
 </div>
 
-### 🚀 Projects and Portfolio:
-- [Awesome Project 1](https://github.com/alanledur1/awesome-project-1) - Brief description of the project.
-- [Awesome Project 2](https://github.com/alanledur1/awesome-project-2) - Brief description of the project.
-- [My Portfolio](https://alanledur1.github.io/portfolio) - Check out my personal portfolio website.
+### 🚀 Portfolio:
+
+- [My Portfolio](https://portfolio-blond-eight-80.vercel.app/) - Check out my personal portfolio website.
 
 ![Snake animation](https://github.com/alanledur1/alanledur1/blob/output/github-contribution-grid-snake.svg)
+
 
 
