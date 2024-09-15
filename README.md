@@ -25,13 +25,13 @@
 
 ### 📫 How to reach me:
 <div align="center">
-  <a href="https://www.linkedin.com/in/alanledur/" target="_blank">
+  <a href="https://br.linkedin.com/in/alan-ledur-b3529b183?original_referer=https%3A%2F%2Fwww.bing.com%2F" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/alanledur/" target="_blank">
+  <a href="https://www.instagram.com/ledur_alan77?igsh=aTlpaWphaWJ3ZTMw&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:alan@example.com">
+  <a href="mailto:alanledur01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
