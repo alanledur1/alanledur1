@@ -44,8 +44,10 @@
 
 - [My Portfolio](https://portfolio-blond-eight-80.vercel.app/) - Check out my personal portfolio website.
 
+<div align="center">
+   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+</div>
 
-
-    ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+    
 
 
