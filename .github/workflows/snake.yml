@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensure that the full history is fetched
+
       - uses: Platane/snk@master
         with:
           github_user_name: alanledur1
@@ -22,5 +25,11 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add dist/snake.svg
           git commit -m "Generate snake animation"
-          # Cria ou atualiza o branch `output` com o conteúdo do diretório `dist`
-          git push origin `git subtree split --prefix dist HEAD`:output --force
+          # Create and push to the output branch
+          git branch -f output
+          git worktree add output
+          cp dist/snake.svg output/
+          cd output
+          git add snake.svg
+          git commit -m "Update snake animation"
+          git push --force origin output
