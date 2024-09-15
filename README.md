@@ -44,7 +44,8 @@
 
 - [My Portfolio](https://portfolio-blond-eight-80.vercel.app/) - Check out my personal portfolio website.
 
-![Snake animation](https://github.com/alanledur1/alanledur1/blob/output/github-contribution-grid-snake.svg)
 
+
+    ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
