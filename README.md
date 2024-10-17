@@ -3,7 +3,7 @@
 - 👀 I’m interested in web development, fullstack development, and open-source projects.
 - 🌱 I’m currently learning Next.js, Node.js, and modern CSS frameworks.
 - 💞️ I’m looking to collaborate on projects related to MERN stack and AI.
-- 📫 How to reach me: [alanledur@gmail.com](mailto:alanledur01@gmail.com)
+- 📫 How to reach me: [alanledur01@gmail.com](mailto:alanledur01@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and coding outdoors!
 
