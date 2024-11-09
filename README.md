@@ -42,7 +42,7 @@
 
 ### 🚀 Portfolio:
 
-- [My Portfolio](https://portfolio-blond-eight-80.vercel.app/) - Check out my personal portfolio website.
+- [My Portfolio](https://alan-ledur.vercel.app/) - Check out my personal portfolio website.
 
 <div align="center">
    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
