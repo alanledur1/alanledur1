@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alan Ledur!
+# 👋 Hi, I’m Alan!
 
 - 👀 I’m interested in web development, fullstack development, and open-source projects.
 - 🌱 I’m currently learning Next.js, Node.js, and modern CSS frameworks.
